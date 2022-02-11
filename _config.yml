@@ -58,3 +58,5 @@ tag_permalink_style: pretty
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-midnight
